@@ -155,11 +155,9 @@ plt.imshow(img_28_gray_scaled.reshape(28,28),cmap='gray')
 
 
 ### New Sample Data Prediction
-INPUT
+## INPUT:
 ![Screenshot 2024-03-15 144340](https://github.com/Manojrathinavelu/mnist-classification/assets/119560395/91768b51-afc5-4621-bdb6-762c036e152a)
-
-
-OUTPUT
+## OUTPUT:
 ![image](https://github.com/Manojrathinavelu/mnist-classification/assets/119560395/28b12888-0768-44c3-9efd-d78a3de2e010)
 
 
