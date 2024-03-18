@@ -143,8 +143,8 @@ plt.imshow(img_28_gray_scaled.reshape(28,28),cmap='gray')
 ## OUTPUT
 
 ### Training Loss, Validation Loss Vs Iteration Plot
-<img height=15% width=45% src="![image](https://github.com/Manojrathinavelu/mnist-classification/assets/119560395/97430ff2-6411-4716-8c9a-c63eda57f693)">
-<img height=15% weight=45% src="![image](https://github.com/Manojrathinavelu/mnist-classification/assets/119560395/031720d2-5bd0-4b82-a9af-4cfe324a26a1)">
+<img height=15% width=45% src="https://github.com/Manojrathinavelu/mnist-classification/assets/119560395/97430ff2-6411-4716-8c9a-c63eda57f693">
+<img height=15% weight=45% src="https://github.com/Manojrathinavelu/mnist-classification/assets/119560395/031720d2-5bd0-4b82-a9af-4cfe324a26a1">
 
 ### Classification Report
 ![image](https://github.com/Manojrathinavelu/mnist-classification/assets/119560395/21600969-c22e-4f94-b004-c6ac2a028985)
